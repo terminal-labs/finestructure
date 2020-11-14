@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+finestructure/__init__.py
+finestructure.egg-info/PKG-INFO
+finestructure.egg-info/SOURCES.txt
+finestructure.egg-info/dependency_links.txt
+finestructure.egg-info/requires.txt
+finestructure.egg-info/top_level.txt
